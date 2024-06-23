@@ -23,19 +23,48 @@
 <a href="https://www.w3schools.com/python/default.asp">
   <img height="40" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </a>
+<a href="https://www.w3schools.com/js/default.asp">
+  <img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+</a>
+<a href="https://www.w3schools.com/typescript/">
+  <img height="40" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+</a>
 <a href="https://www.w3schools.com/html/default.asp">
    <img height="40" alt="Html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </a>
 <a href="https://www.w3schools.com/css/default.asp">
    <img height="40" alt="Css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </a>
-<a href="https://www.w3schools.com/js/default.asp">
-  <img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-</a>
 <a href="https://www.gnu.org/software/bash/manual/bash.html">
-  <img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
+  <img height="40" alt="Bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 </a>
 
+<br />
+<br />
+
+<h3>🌐 Libraries & Frameworks</h3>
+
+<a href="https://reactjs.org/">
+   <img  alt="React" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+</a>
+<a href="https://nextjs.org/docs">
+   <img  alt="Nextjs" height="40" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" />
+</a>
+<a href="https://nodejs.org/en/">
+   <img  alt="Node.js" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+</a>
+<a href="https://pypi.org/project/Flask/">
+   <img  alt="Flask" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+</a>
+<a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/">
+   <img  alt="Bootstrap" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+</a>
+<a href="https://v2.tailwindcss.com/docs">
+   <img  alt="Tailwind" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
+</a>
+<a href="https://ant.design/docs/react/introduce">
+   <img  alt="Antd" height="40" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
+</a>
 <br />
 <br />
 
@@ -47,6 +76,12 @@
 <a href="https://www.mongodb.com/">
    <img  alt="MongoDB" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 </a>
+<a href="https://docs.nestjs.com/recipes/prisma">
+   <img  alt="PrismaORM" height="40" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" />
+</a>
+<a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/">
+   <img  alt="JupyterNotebook" height="40" src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" />
+</a>
 <a href="https://www.linux.org/">
    <img height="40" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 </a>
@@ -54,7 +89,7 @@
    <img alt="Terminal" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </a>
 <a href="https://git-scm.com/">
-   <img  alt="Git" height="40" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" />
+   <img  alt="Git" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </a>
 <a href="https://github.com/">
    <img  alt="GitHub" height="40" src="https://img.icons8.com/fluent/50/000000/github.png" />
@@ -66,31 +101,7 @@
    <img  alt="Stack Overflow" height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" />
 </a>
 <a href="https://docs.godotengine.org/en/stable/getting_started/introduction/index.html">
-   <img  alt="Node.js" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" />
-</a>
-
-<br />
-<br />
-
-<h3>🌐 Libraries & Frameworks</h3>
-
-<a href="https://reactjs.org/">
-   <img  alt="React" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-</a>
-<a href="https://nodejs.org/en/">
-   <img  alt="Node.js" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-</a>
-<a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/">
-   <img  alt="Node.js" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-</a>
-<a href="https://v2.tailwindcss.com/docs">
-   <img  alt="Node.js" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-</a>
-<a href="https://ant.design/docs/react/introduce">
-   <img  alt="Node.js" height="40" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
-</a>
-<a href="https://nextjs.org/docs">
-   <img  alt="Node.js" height="40" src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" />
+   <img  alt="Godot" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" />
 </a>
 
 <br />
