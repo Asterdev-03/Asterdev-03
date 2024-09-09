@@ -1,9 +1,9 @@
 <h1 align="center">Howdy 🖐  I'm  <a href="https://linkedin.com/in/asterdev">Aswin K</a></h1>
-<h3 align="center">I'm a Student and a Developer</h3>
+<h3 align="center">I'm a Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Asterdev-03&label=Profile%20views&color=0e75b6&style=plastic" alt="emvk09" /> </p>
 
 
-- 🏫 Currently studying at Jyothi Engineering College.
+- 🏫 A B.Tech. graduate in Computer Science.
 - 💭 Looking to collaborate with other developers.
 - 👀 Current Goal: To develop an indie game.
 - 🎉 Fun Fact: I love to draw pixel arts.
@@ -16,6 +16,9 @@
 </a>
 <a href="https://www.w3schools.com/cpp/default.asp">
    <img height="40" alt="Cpp" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
+</a>
+<a href="https://www.w3schools.com/cs/index.php">
+   <img height="40" alt="C#" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/csharp/csharp.png" />
 </a>
 <a href="https://www.w3schools.com/java/default.asp">
   <img height="40" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
@@ -62,6 +65,15 @@
 <a href="https://v2.tailwindcss.com/docs">
    <img  alt="Tailwind" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 </a>
+<a href="https://dotnet.microsoft.com/en-us/">
+   <img  alt="Dot Net" height="40" src="https://raw.githubusercontent.com/github/explore/a92591a79a4ce31660058d7ccc66c79266931f61/topics/dotnet/dotnet.png" />
+</a>
+<a href="https://maven.apache.org/guides/index.html">
+   <img  alt="Maven" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" />
+</a>
+<a href="https://docs.spring.io/spring-boot/documentation.html">
+   <img  alt="Springboot" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+</a>
 <a href="https://ant.design/docs/react/introduce">
    <img  alt="Antd" height="40" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
 </a>
@@ -81,6 +93,9 @@
 </a>
 <a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/">
    <img  alt="JupyterNotebook" height="40" src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" />
+</a>
+<a href="https://firebase.google.com/docs">
+   <img  alt="Firebase" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 </a>
 <a href="https://www.linux.org/">
    <img height="40" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
