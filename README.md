@@ -2,14 +2,14 @@
 <h3 align="center">I'm a Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Asterdev-03&label=Profile%20views&color=0e75b6&style=plastic" alt="emvk09" /> </p>
 
-
 - 🏫 A B.Tech. graduate in Computer Science.
 - 💭 Looking to collaborate with other developers.
 - 👀 Current Goal: To develop an indie game.
 - 🎉 Fun Fact: I love to draw pixel arts.
-<hr/>
 
-<h3>💎 Programming Languages</h3>
+---
+
+### 💎 Programming Languages
 
 <a href="https://www.w3schools.com/c/index.php">
    <img height="40" alt="C" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
@@ -45,7 +45,7 @@
 <br />
 <br />
 
-<h3>🌐 Libraries & Frameworks</h3>
+### 🌐 Libraries & Frameworks
 
 <a href="https://reactjs.org/">
    <img  alt="React" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -77,10 +77,11 @@
 <a href="https://ant.design/docs/react/introduce">
    <img  alt="Antd" height="40" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
 </a>
+
 <br />
 <br />
 
-<h3>🛠️ Technologies & Tools</h3>
+### 🛠️ Technologies & Tools
 
 <a href="https://www.mysql.com/">
    <img  alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
@@ -119,18 +120,18 @@
    <img  alt="Godot" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" />
 </a>
 
-<br />
-<br />
+---
 
-<h3>🎖️ Stats</h3>
+### 🎖️ Stats
 
-[![Aswin's github stats](https://github-readme-stats.vercel.app/api?username=Asterdev-03&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Asterdev-03&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asterdev-03&layout=donut&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Asterdev-03&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://git.io/streak-stats">
+   <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=Asterdev-03&theme=tokyonight&hide_border=false&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak""/>
+</a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Asterdev-03&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<h3>🫂 Connect with Me</h3>
+### 🫂 Connect with Me
 
 [<img src='https://img.icons8.com/fluent/50/000000/github.png' alt='github' height='40'>][github]
 [<img src='https://img.icons8.com/fluent/50/000000/linkedin.png' alt='linkedin' height='40'>][linkedin]
