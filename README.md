@@ -1,4 +1,7 @@
-<h1 align="center">Howdy 🖐  I'm  <a href="https://linkedin.com/in/asterdev">Aswin K</a></h1>
+<h1 align="center">
+   Howdy, I'm  <a href="https://linkedin.com/in/asterdev">Aswin K</a>
+   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 <h3 align="center">I'm a Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Asterdev-03&label=Profile%20views&color=0e75b6&style=plastic" alt="emvk09" /> </p>
 
@@ -139,6 +142,6 @@
 [<img src='https://img.icons8.com/fluent/50/000000/twitter.png' alt='twitter' height='40'>][twitter]
 
 [instagram]: https://instagram.com/aster_dev
-[linkedin]: https://linkedin.com/in/asterdev
+[linkedin]: https://linkedin.com/in/aswinkarat
 [twitter]: https://twitter.com/asterdev03
 [github]: https://github.com/Asterdev-03
